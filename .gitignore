@@ -1,0 +1,11 @@
+### Ignore settings IDE
+.idea/
+*.iml
+
+### Ignore executable files
+*.exe
+*.out
+*.test
+
+# File with users data
+todo.json
